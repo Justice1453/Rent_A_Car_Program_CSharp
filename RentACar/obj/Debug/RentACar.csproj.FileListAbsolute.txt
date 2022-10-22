@@ -1,0 +1,18 @@
+c:\users\sir. emrullah\documents\visual studio 2015\Projects\RentACar\RentACar\bin\Debug\RentACar.exe.config
+c:\users\sir. emrullah\documents\visual studio 2015\Projects\RentACar\RentACar\bin\Debug\RentACar.exe
+c:\users\sir. emrullah\documents\visual studio 2015\Projects\RentACar\RentACar\bin\Debug\RentACar.pdb
+c:\users\sir. emrullah\documents\visual studio 2015\Projects\RentACar\RentACar\obj\Debug\RentACar.csprojResolveAssemblyReference.cache
+c:\users\sir. emrullah\documents\visual studio 2015\Projects\RentACar\RentACar\obj\Debug\RentACar.Form1.resources
+c:\users\sir. emrullah\documents\visual studio 2015\Projects\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+c:\users\sir. emrullah\documents\visual studio 2015\Projects\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.Cache
+c:\users\sir. emrullah\documents\visual studio 2015\Projects\RentACar\RentACar\obj\Debug\RentACar.exe
+c:\users\sir. emrullah\documents\visual studio 2015\Projects\RentACar\RentACar\obj\Debug\RentACar.pdb
+C:\Users\Sir. Emrullah\Desktop\RentACar\Kodlar\RentACar\bin\Debug\RentACar.exe.config
+C:\Users\Sir. Emrullah\Desktop\RentACar\Kodlar\RentACar\obj\Debug\RentACar.exe
+C:\Users\Sir. Emrullah\Desktop\RentACar\Kodlar\RentACar\obj\Debug\RentACar.pdb
+C:\Users\Sir. Emrullah\Desktop\RentACar\Kodlar\RentACar\bin\Debug\RentACar.exe
+C:\Users\Sir. Emrullah\Desktop\RentACar\Kodlar\RentACar\bin\Debug\RentACar.pdb
+C:\Users\Sir. Emrullah\Desktop\RentACar\Kodlar\RentACar\obj\Debug\RentACar.csprojResolveAssemblyReference.cache
+C:\Users\Sir. Emrullah\Desktop\RentACar\Kodlar\RentACar\obj\Debug\RentACar.Form1.resources
+C:\Users\Sir. Emrullah\Desktop\RentACar\Kodlar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+C:\Users\Sir. Emrullah\Desktop\RentACar\Kodlar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.Cache
